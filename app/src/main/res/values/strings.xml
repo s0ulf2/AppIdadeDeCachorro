@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Idade de Cachorro</string>
     <string name="LogoIdadeCachorro">Logo idade do cachorro</string>
+    <string name="digite_abaixo_a_idade_do_seu_filhote">Digite abaixo a idade do seu filhote.</string>
 </resources>
